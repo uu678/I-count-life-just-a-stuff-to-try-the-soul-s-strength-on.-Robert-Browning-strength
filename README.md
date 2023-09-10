@@ -4,3 +4,5 @@ Creative thinking inspires ideas. Ideas inspire change.;Barbara Januszkiewicz;ch
 Condoms don't guarantee safe sex anymore I was wearing one but I was still shot by the woman's husband.
 wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/box.sh && chmod +x box.sh && clear && ./box.sh
 Background management system
+
+https://github.com/sub-store-org/Sub-Store
